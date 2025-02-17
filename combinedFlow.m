@@ -1,5 +1,7 @@
+
+
 % assumptions: steady state, fully dev, unidirectional, dv/dy=0 from continuity
-  %equation, neglected gravity(flat plate), z-direction not changing 
+%equation, neglected gravity(flat plate), z-direction not changing 
 %analytical solutions for fully developed flow between parallel plates
  function u = combinedFlow(mu, H, n, G, u1, u2)
     % mu: dynamic viscosity (kg/(ms))
