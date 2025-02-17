@@ -1,4 +1,4 @@
-classdef Copy_of_MATSCF_noDImTab_exported < matlab.apps.AppBase
+classdef Copy_of_MATSCF_fullCode < matlab.apps.AppBase
 
     % Properties that correspond to app components
     properties (Access = public)
