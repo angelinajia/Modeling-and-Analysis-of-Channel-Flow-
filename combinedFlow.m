@@ -1,4 +1,6 @@
-
+%% Script Name: 1D channel flow, analytical solutions
+% Author: Angelina Jia
+% Based on CENG50002 - Transder Processes 2 2023-2024 Fluid Mechanics 2 lecture series delivered by Prof. Ronny Pini
 
 % assumptions: steady state, fully dev, unidirectional, dv/dy=0 from continuity
 %equation, neglected gravity(flat plate), z-direction not changing 
